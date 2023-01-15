@@ -1,15 +1,15 @@
 <div align=center>
-<img src='./Client banner.png'/>
+<img src='./content/Client banner.png'/>
 
 <br />
 <br />
 
 <a href='https://github.com/Gryt-chat/gryt-client'>
-<img src='./clientRepo.png'/>
+<img src='./content/clientRepo.png'/>
 </a>
 
 <a href='https://docs.gryt.chat/docs/category/client'>
-<img src='./clientDocs.png'/>
+<img src='./content/clientDocs.png'/>
 </a>
 </div>
 
@@ -18,17 +18,17 @@
 <br />
 
 <div align=center>
-<img src='./Server banner.png'/>
+<img src='./content/Server banner.png'/>
 
 <br />
 <br />
 
 <a href='https://github.com/Gryt-chat/gryt-server'>
-<img src='./serverRepo.png'/>
+<img src='./content/serverRepo.png'/>
 </a>
 
 <a href='https://docs.gryt.chat/docs/category/server'>
-<img src='./serverDocs.png'/>
+<img src='./content/serverDocs.png'/>
 </a>
 </div>
 
@@ -37,16 +37,16 @@
 <br />
 
 <div align=center>
-<img src='./Documentation banner.png'/>
+<img src='./content/Documentation banner.png'/>
 
 <br />
 <br />
 
 <a href='https://gryt.chat'>
-<img src='./homepage.png'/>
+<img src='./content/homepage.png'/>
 </a>
 
 <a href='https://docs.gryt.chat'>
-<img src='./documentation.png'/>
+<img src='./content/documentation.png'/>
 </a>
 </div>
